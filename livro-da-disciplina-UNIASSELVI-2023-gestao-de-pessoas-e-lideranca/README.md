@@ -1,14 +1,27 @@
-# Livro - Título-do-livro
+# Livro - Gestão de Pessoas e Liderança
 
 ## Como referenciar esta obra ?
 
-(...)
+ KIELWAGEN, Edson Klaus; MARTINS, Daniele de Lourdes Curto da Costa; SOUZA, Rodolpho Ribeiro da Silva. Gestão de Pessoas e Liderança. Indaial-SC: Arqué, 2023
 
 ## Como referenciar este material ?
 
 (...)
 
 ## Sumário
+
+### Unidade 01
+#### Capítulo 01 - Gestão de Pessoas e suas Atividades Básicas
+#### Capítulo 02 - Políticas de Gestão de Pessoas e Planejamento de Pessoal
+#### Capítulo 03 - Processos de Recrutamento e Seleção de Pessoal
+### Unidade 02
+#### Capítulo 04 - Avaliação de Desempenho
+#### Capítulo 05 - Treinamento, Desenvolvimento de Pessoas e Cultura Organizacional
+#### Capítulo 06 - Sistema de Remuneração e Benefícios
+### Unidade 03
+#### Capítulo 07 - Desenvolvimento Gerencial: Conhecimento, Comunicação e Aprendizagem
+#### Capítulo 08 - Aspectos Conceituais sobre a Motivação
+#### Capítulo 09 - Novos Caminhos sobre a Liderança nas Organizações
 
 ## Licença
 
