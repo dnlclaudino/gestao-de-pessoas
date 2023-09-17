@@ -1,12 +1,12 @@
-# NOME-DO-REPOSITORIO
+# Gestão de Pessoas
 
-Repositório para Gestão do Conhecimento de NOME-DO-REPOSITORIO.
+Repositório para Gestão do Conhecimento de Gestão de Pessoas.
 
 ## Fontes
  
 | # | Tipo Fonte | Nome da Fonte | Progresso | Data | Versão | Links | Anotações |
 |:---:|:---:|:---|:---:|:---:|:---:|:---|:---|
-| 1 | Livro da Disciplina |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 1 | Livro da Disciplina |**UNIASSELVI<br>PROF.ª DANIELE DE LOURDES CURTO DA COSTA MARTINS<br>PROF. EDSON KLAUS KIELWAGEN<br>PROF. RODOLPHO RIBEIRO DA SILVA SOUZA**<br>[Livro - Gestão de Pessoas e Liderança](./livro-da-disciplina-UNIASSELVI-2023-gestao-de-pessoas-e-lideranca/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0bhqEwOYzc75SOQvXxtw?e=4xnfJS) | - |
 | 2 | Livro da Disciplina |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
 | 3 | Livro da Disciplina |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
 
