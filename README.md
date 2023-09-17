@@ -16,7 +16,7 @@ O estudo de todas as fontes desse repositório permitiram o desenvolvimento das 
 
 ### Competência Acadêmicas | Categoria | Descrição breve da competência
 
-- **Código**: CPT-A-**SIGLA-NOME-DO-REPOSITORIO**-XXX-A001
+- **Código**: CPT-A-GEST-PESSOAS-XXX-A001
 
 |**Verbo**|**Objeto**|**Condição**|**Critério**|
 |:---|:---|:---|:---|
