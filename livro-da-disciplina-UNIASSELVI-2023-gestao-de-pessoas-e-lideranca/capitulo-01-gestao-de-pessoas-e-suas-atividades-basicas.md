@@ -105,7 +105,7 @@ root((Objetivos<br>deste Capítulo))
 
 <hr>
 
-Um **modelo de gestão de pessoas** **BEM DEFINIDO** e **BEM ESTRUTURADO** requer:
+São **REQUISITOS** de um **modelo de gestão de pessoas** **BEM DEFINIDO** e **BEM ESTRUTURADO** requer:
 
 1. Definição dos **objetivos** estratégicos da gestão de pessoas;
 2. **Domínio e utilização das técnicas** específicas para a Gestão de Pessoas;
@@ -122,10 +122,10 @@ Um **modelo de gestão de pessoas** **BEM DEFINIDO** e **BEM ESTRUTURADO** auxil
 - Interagindo com todos os processos da organização;
 - Para atingir os objetivos previstos pelo plano estratégico
 - A fim de que a organização passe a percenter ao grupo de organizações no futuro;
-
-<hr>
   
 ## Modelo de gestão de pessoas ideal
+
+
 
 ## A relação e as interfaces dos processos do sistema de gestão de pessoas
 
