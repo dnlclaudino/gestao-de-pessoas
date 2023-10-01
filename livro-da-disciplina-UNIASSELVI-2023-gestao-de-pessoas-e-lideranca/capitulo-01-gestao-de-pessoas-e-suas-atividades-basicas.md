@@ -125,6 +125,96 @@ Um **modelo de gestão de pessoas** **BEM DEFINIDO** e **BEM ESTRUTURADO** auxil
   
 ## Modelo de gestão de pessoas ideal
 
+- Por **modelo de gestão de pessoas** entende-se não um modelo ao qual todas as organizações devam seguir e que foi copiado, mas um modelo que nasce do **encontro entre os interesses** da **organização** e dos seus **colaboradores**.
+- Um **modelo ideal**:
+  - Leva a organização como um todo e seus colaboradores a alcançarem os **resultados desejados**;
+  - Considera as **atitudes** que atendam aos desejos de todos;
+- Existem **desejos comumente aceitos** em ambientes organizacionais:
+  - Valorização;
+  - Reconhecimento;
+  - Crescimento;
+  - Desenvolvimento pessoal;
+  - Desenvolvimento profissional;
+  - Justiça
+  - Equidade;
+  - Ambiente de trabalho digno;
+  - Ambiente de trabalho organizado;
+  - Redução de desperdícios;
+  - Aumento da produtividade;
+- A **falta de conhecimento** impede a organização de **visualizar os resultados** que de fato podem ser obtidos para o **crescimento** e o **desenvolvimento** das pessoas e das organizações;
+
+<table id="ID-REFLEXAO-FALTA-DE-CONHECIMENTO">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-reflexao.png?raw=true" heigh="80" width="80"><br>
+      <b>Reflexões</b>
+    </td>
+    <td valign="top">
+    <ul>
+    <li>Não é sempre que a Gestão de Pessoas é verdadeiramente praticada nas organizações. Principalmente, mas não exclusivamente, nas de pequeno e médio porte</li>
+    <li>Acaba sendo entendida como um centro de despesas, e não de investimentos.</li>
+    </ul>
+   <p>Questiona-se se, verdadeiramente, é <b>APENAS</b> <b>falta de conhecimento</b> que impede a organização de <b>visualizar os resultados</b> que podem ser obtidos com a <b>gestão estratégica de pessoas</b></p>
+   <p>A <b>cultura organizacional</b> e <b>fatores políticos internos organizacionais</b> podem influenciar ou até mesmo determinar mais essa realidade do que a simples falta de conhecimento.</p>
+    </td>
+  </tr>
+</table>
+
+- A adoção de um modelo de Gestão de Pessoas deve ser uma decisão estratégica da organização;
+- Um modelo de gestão de pessoas, seja ele bem ou mal estruturado, **interfere positiva ou negativamente** nas **vidas das pessoas e da organização**, <u>na medida em que</u> **os desejos são ou não atendidos**;
+- Um modelo de Gestão de Pessoas adotado, bem ou mal estruturado, é fortemente influenciado pela:
+  - Características da organização;
+  - Estrutura da organização;
+  - Tamanho da organização;
+  - Tipo de atividade;
+  - Diferentes fases de sua evolução;
+  - Cultura organizacional;
+- A Gestão de Pessoas
+  - Tem um impacto crucial na **competitividade**,**sobrevivência** e **perpetuação** da organização;
+  - Quem pode fazer isso são pessoas **qualificadas**, **motivadas**, de **alto desempenho**;
+- O **desenvolvimento organizacional**, em termos de **lucratividade** e **participação no mercado**, é possível e mais fácil de ser medido objetivamente, já o **desenvolvimento das pessoas** <u>é mais complexo</u>.
+
+## As responsabilidades pela Gestão de Pessoas
+
+- A Gestão de Pessoas como uma **função de staff** — grupo qualificado de pessoas que assistem a um dirigente ou a um chefe —, 
+- O **dirigente** atua estrategicamente em todas as atividades da Gestão de Pessoas;
+- As **pessoas que assistem ao dirigente** são as que administram o pessoal de fato (gerente ou chefe), ou seja,
+  - Decidem sobre:
+    - Novas admissões;
+    - Promoções;
+    - Transferências;
+    - Avaliação do desempenho;
+    - Mérito;
+    - Treinamento;
+    - Desligamentos;
+    - Disciplina;
+    - Métodos e processos de trabalho;
+  - Realizam as seguintes ações:
+    - Dá ordens;
+    - Informações;
+    - Orientações;
+    - Transmite aos subordinados das expectativas da organização
+    - Transmite aos subordinados dos planos da organização;
+    - Quem recebe as expectativas e os sentimentos dos subordinados
+  - Recebe dos subordinados
+    - Informações;
+    - Solicitações;
+    - Esclarecimentos;
+    - As suas expectativas;
+    - Os seus sentimentos;
+- A Gestão de Pessoas é uma **responsabilidade de linha**, ou seja, uma **responsabilidade de cada chefe**;
+- Para que as chefias **atuem de maneira** relativamente **uniforme** e **consistente** em relação aos seus subordinados, torna-se necessário um **órgão de staff**, de **ASSESSORIA**, **CONSULTORIA** e **PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS**;
+  - Esse órgão PROPORCIONA ÀS CHEFIAS a devida:
+    - **ORIENTAÇÃO** sobre como administrar os seus subordinados;
+    - **NORMAS** sobre como administrar os seus subordinados; e
+    - **PROCEDIMENTOS** sobre como administrar os seus subordinados
+    - **SERVIÇOS ESPECIALIZADOS**
+      - Recrutamento;
+      - Seleção
+      - treinamento
+      - analise de cargos
+      - avaliação
+      - etc.
 
 
 ## A relação e as interfaces dos processos do sistema de gestão de pessoas
