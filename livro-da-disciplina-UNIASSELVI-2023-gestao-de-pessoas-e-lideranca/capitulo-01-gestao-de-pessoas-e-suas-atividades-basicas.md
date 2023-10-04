@@ -211,13 +211,16 @@ Um **modelo de gestão de pessoas** **BEM DEFINIDO** e **BEM ESTRUTURADO** auxil
     - **SERVIÇOS ESPECIALIZADOS**
       - Recrutamento;
       - Seleção
-      - treinamento
-      - analise de cargos
-      - avaliação
-      - etc.
+      - Treinamento
+      - Analise de cargos
+      - Avaliação
+      - Suprir as chefias com propostas;
+      - Suprir as chefias com recomendações 
 
+## O conceito de sistema
 
-## A relação e as interfaces dos processos do sistema de gestão de pessoas
+- Sistema, segundo o Dicionário da Língua Portuguesa (2001), é um conjunto de princípios, método, forma, jeito;
+-  A aplicação desse conceito na Gestão de Pessoas não é tão fácil
 
 ## Fontes de Informações
 
