@@ -190,13 +190,13 @@ Um **modelo de gestão de pessoas** **BEM DEFINIDO** e **BEM ESTRUTURADO** auxil
     - Disciplina;
     - Métodos e processos de trabalho;
   - Realizam as seguintes ações:
-    - Dá ordens;
-    - Informações;
-    - Orientações;
-    - Transmite aos subordinados das expectativas da organização
+    - Dar ordens;
+    - Fornecer informações;
+    - Dar orientações;
+    - Transmite aos subordinados das expectativas da organização;
     - Transmite aos subordinados dos planos da organização;
-    - Quem recebe as expectativas e os sentimentos dos subordinados
-  - Recebe dos subordinados
+    - Quem recebe as expectativas e os sentimentos dos subordinados;
+  - Recebe dos subordinados:
     - Informações;
     - Solicitações;
     - Esclarecimentos;
@@ -215,15 +215,215 @@ Um **modelo de gestão de pessoas** **BEM DEFINIDO** e **BEM ESTRUTURADO** auxil
       - Analise de cargos
       - Avaliação
       - Suprir as chefias com propostas;
-      - Suprir as chefias com recomendações 
+      - Suprir as chefias com recomendações;
 
 ## O conceito de sistema
 
 - Sistema, segundo o Dicionário da Língua Portuguesa (2001), é um conjunto de princípios, método, forma, jeito;
--  A aplicação desse conceito na Gestão de Pessoas não é tão fácil
+- A aplicação desse conceito na Gestão de Pessoas não é tão fácil;
+- Inicialmente, precisamos **ORDENAR** as seguintes **ATIVIDADES DE GESTÃO DE PESSOAS**, compreendendo a **RELAÇÃO DE CAUSA E EFEITO** entre elas:
+  - Provisão;
+  - Aplicação;
+  - Manutenção;
+  - Desenvolvimento; e
+  - Monitoramento
+- Ao se **DEFINIR** o **SISTEMA DE GESTÃO DE PESSOAS** busca-se:
+  - Como **RESULTADO** contribuir com o crescimento e o desenvolvimento:
+     - da organização;
+     - das pessoas que nela trabalham;
+  - Alcançar esse **RESULTADO** através:
+    - Da seleção criteriosa das pessoas que ingressam na organização;
+    - Da definição clara das responsabilidades das pessoas;
+    - Da remuneração adequada das pessoas;
+    - De um ambiente adequado para o trabalho das pessoas;
+    - De oportunidades reais e possíveis de desenvolvimento e crescimento ao longo da vida profissional;
+- A Gestão de Pessoas é, portanto, um sistema composto por diversos processos e muitos trabalhos interdependentes. Estes não ocorrem de forma isolada com cada um afetando o outro;
+- Isso faz com que se reconheçam os inter-relacionamentos entre as partes;
+- O ambiente é uma consideração importante, porque a maioria dos sistemas são **SISTEMAS ABERTOS**. Um **SISTEMA ABERTO** é aquele afetado pelo ambiente;
+- As **ORGANIZAÇÕES** e as **PESSOAS** são **SISTEMAS ABERTOS** porque são afetadas por seus ambientes.
+- As **ATIVIDADES BÁSICAS DA GESTÃO DE PESSOAS** consistem em prover, aplicar, manter, desenvolver e monitorar pessoas;
+- Conforme Chiavenato (2000, p. 153), a **FUNÇÃO DO ÓRGÃO DE GESTÃO DE PESSOAS** enquanto staff é **assessorar a organização**:
+  - No **desenvolvimento** de **DIRETRIZES** e **POLÍTICAS** para a solução de problemas específicos de pessoal
+  - Para **SUPRIR DE DADOS** que possibilitarão decisões ao chefe de linha;
+- Cabe aos **FUNCIONÁRIOS DA ÁREA DE GESTÃO DE PESSOAS** assistirem aos **CHEFES**, **AOS DIRIGENTES** de toda a organização, para GERIR CORRETAMENTE AS PESSOAS que trabalham
+na organização;
+
+### Processos que compõem o SISTEMA DE GESTÃO DE PESSOAS
+
+#### Processo de Provisão de Pessoas
+
+- Tem como objetivo definir quem trabalha na organização;
+- Os subprocessos da provissão de pessoas são:
+  - Planejamento de gestão de pessoas;
+  - Recrutamento de pessoas;
+  - Seleção de pessoas;
+
+#### Processo de Aplicação de Pessoas
+
+- O processo de aplicação se ocupa com o desenho dos cargos, a análise dos cargos e a avaliação de desempenho;
+- Uma vez que as pessoas são efetivadas na organização, elas precisam **RECEBER ORIENTAÇÃO** sobre:
+  - Como executar suas tarefas;
+  - Os critérios que precisam seguir ao executar tarefas;
+  - Quando se dedicar a um trabalho específico;
+  - O **conteúdo do seu cargo**;
+  - Que **critérios** serão considerados para **avaliar seu desempenho**
+- Os subprocessos da aplicação de pessoas são:
+  - Desenho do cargo
+    - Define claramente:
+      - A identificação do cargo na estrutura organizacional;
+      - As atividades do cargo;
+      - As responsabilidades do cargo;
+      - Os requisitos de qualificação do cargo;
+      - O(s) requisito(s) de experiência(s) pessoal(is);
+      - O(s) requisito(s) de habilidade(s) pessoal(is) pessoal(is), inclusive comportamental(is);
+      - A(s) habilidade(s) técnica(s) exigida(s);
+    - A partir do **DESENHO DO CARGO** é possível **DEFINIR OBJETIVOS** com relação ao **DESEMPENHO DO OCUPANTE DO CARGO**;
+    - Quando os cargos e os requisitos de desempenho **ESTÃO** bem definidos:
+      - Facilita-se a adaptação do colaborador ao ambiente de trabalho
+      - Aumenta a probabilidade dele ter um bom desempenho;
+    - Quando os cargos e os requisitos de desempenho **NÃO ESTÃO** bem definidos (desenho e análise):
+      - É quase impossível:
+        - Definir critérios para recompensar colaboradores;
+        - Definir critérios para remunerar colaboradores;
+  - Análise e descrição dos cargos
+  - Avaliação do desempenho
+
+#### Processo de Manutenção de Pessoas
+
+- São subprocesso de manutenção de pessoas:
+  - Remuneração;
+  - Benefícios;
+  - Higiene e a segurança;
+  - Relações sindicais;
+- O desafio do processo de manutenção de pessoas:
+  - Manter as pessoas trabalhando na organização;
+  - Manter as pessoas motivadas;
+  - Manter as boas condições de trabalho para as pessoas;
+- As recompensas devem seguir critérios rígidos de justiça e equidade;
+- O ambiente de trabalho deve ser seguro, para que não afete a saúde das pessoas;
+- A **MANUTENÇÃO DO NÍVEL DE SATISFAÇÃO DAS PESSOAS** está diretamente relacionada:
+  - Às condições de sobrevivência;
+  - Às condições de segurança
+  - Às condições sociais;
+  - Às condições de crescimento;
+  - Às condições de desenvolvimento pessoal e profissional.
+- **BAIXOS NÍVEIS de SATISFAÇÃO** favorecem:
+  - A percepção de sentimentos de injustiça;
+  - A percepção de sentimentos de insatisfação;
+  - O surgimento de conflitos;
+- O tema **SATISFAÇÃO DE PESSOAL** está relacionado com o **ATENDIMENTO DAS NECESSIDADES HUMANAS**;
+  - Como ensina o Prof. Rodrigo Rennó[^YOUTUBE-RODRIGO-RENNO-MOTIVACAO], segundo Abraham Maslow, as necessidades humanas estão dispostas numa hierarquia:
+
+<center><b>Figura:</b> Hierarquia das Necessidades de Maslow</center>
+<table align="center" width="650" id="figura-teoria-das-necessidades-maslow">
+  <tr>
+    <td align="center">
+      <img src="../figuras/motivacao---hierarquia-das-necessidades-de-maslow.png" width="640"><br>
+    </td>
+  </tr>
+</table>
+<center><b>Fonte:</b> YOUTUBE: Teorias da Motivação - Aula Completa - Prof. Rodrigo Rennó</center>
+
+### Processo de Desenvolvimento de Pessoas
+
+- Surge da expectativa de crescimento e desenvolvimento;
+- Os desafios deste processo são:
+  - No **PLANO INDIVIDUAL**:
+    - Treinamento Individual
+      - O objetivo é habilitar o colaborador para que tenha domínio e consiga executar todas as atividades previstas pelo cargo;
+    - Desenvolvimento individual;
+      - O objetivo é habilitar pessoas a alcançarem cargos mais qualificados que os cargos que ocupam no presente (desenvolvimento)
+  - No **PLANO ORGANIZACIONAL**:
+    - Aprendizagem organizacional;
+    - Desenvolvimento organizacional;
+- Os **PROGRAMAS DE TREINAMENTO**:
+  - Devem ser executados a partir de **objetivos específicos**;
+  - Esses objetivos específicos são definidos:
+    - A partir de um diagnóstico;
+    - A partir de um levantamento de necessidades de treinamento ( LNT );
+    - A partir de um levantamento de necessidades de desenvolvimento;
+
+### Processo de Monitoração
+
+- Se ocupa das **atividades de controle** de todos os processos do sistema de gestão de pessoas;
+- O controle é baseado em **padrões esperados** de:
+  - Comportamento;
+  - Disciplina;
+  - Organização;
+  - etc.
+- Uma boa estrutura do processo de monitoramento auxilia a tomada de decisão de todos os demais processos;
+- O **processo de monitoração** tem a função de **controlar o resultado**, as **saídas**;
+
+
+## Controle de Resultados
+
+- É necessário **quantificar os resultados** e **transformar os resultados em indicadores**;
+  - Qual é o nível de satisfação dos funcionários?
+  - Qual é o custo total da Gestão de Pessoas sobre o custo total da organização?
+  - Qual é o tempo médio de casa dos funcionários?
+  - Qual é o índice de rotatividade?
+- Cada **PROCESSO** deve ter os seus indicadores;
+- Cada Inidicador devem estar alinhados com o **INDICADOR GERAL DA GESTÃO DE PESSOAS**;
+- Não há outra maneira de **AVALIAR OS RESULTADOS OBTIDOS PELA GESTÃO DE PESSOAS** senão por meio de **UM BOM SISTEMA DE CONTROLE**
+  - UM BOM SISTEMA DE CONTROLE
+    - Quantificar, definir metas, indicadores, com base no **objetivo geral da Gestão de Pessoas**;
+    - Analisar, periodicamente e com frequência definida (diária, semanal, mensalmente) os resultados obtidos;
+    - Comparar os resultados com as metas;
+    - Se os resultados **FOREM** satisfatórios, manter e melhorar;
+    - Se os resultados **NÃO FORAM** satisfatórios, efetuar ajustes por meio de **ações corretivas**.
+
+## Controle de Pessoas
+
+- Meios de controle
+  - Para **DIRIGIR** o comportamento
+    - Determinando o que deve ser seguido;
+    - Determinando o que deve ser evitado;
+  - Para **ORIENTAR** o comportamento
+    - que deve ser seguido
+    - que deve ser evitado
+- São **FORMAS DE CONTROLE**:
+  - Hierarquia
+  - Regras
+  - Procedimentos
+- Compete a organização instituir **MEIOS DE CONTROLE** e **CRITÉRIOS** para garantir o cumprimento:
+  - Das normas organizacionais;
+  - Dos objetivos organizacionais;
+- A **cultura da organização** exerce controle sobre o **comportamento das pessoas**;
+- Os **meios de controle** devem ser coerentes com a **cultura organizacional** buscando:
+  - Construir relacionamentos duradouros;
+  - Relacionamentos baseados em certos fundamentos;
+  - Relacionamentos almejando a consecução dos resultados finais da organização;
+
+## A Relação e as Interfaces dos Processos do Sistema de Gestão de Pessoas
+
+- A relação entre os processos de Gestão de Pessoas é uma relação de **CAUSA** e **EFEITO**;
+- Para Campos (1992), é preciso entender que **os processos de organização** (inclusive os de Gestão de Pessoas) estão interligados, qualquer um deles pode prejudicar o atendimento do objetivo principal da organização, sua missão e visão de futuro.
+- Existe uma organização lógica e sequencial das atividades da Gestão de Pessoas;
+
+<center>
+
+<b>Figura:</b> Principais Atividades de Gestão de Pessoas
+```mermaid
+flowchart LR;
+
+%% Elementos
+PP["Processo<br>de Provisão"];
+PA["Processo<br>de Aplicação"];
+PMA["Processo<br>de Manutenção"];
+PMO["Processo<br>de Monitoramento"];
+
+%% Ligações
+PP-->PA-->PMA-->PMO
+
+```
+<b>Fonte:</b> De autoria própria, a partir do texto do Livro
+
+</center>
 
 ## Fontes de Informações
 
 - Associação Brasileira de Recursos Humanos (ABRH)
 
 ## Referências bibliográficas
+
+[^YOUTUBE-RODRIGO-RENNO-MOTIVACAO]: RODRIGO RENNÓ. Teorias de Motivação - Aula Completa - Prof. Rodrigo Rennó. YouTube, 09 de julho de 2019. Disponível em: https://www.youtube.com/watch?v=ajwMge4NNXw Acesso em: 10 de outubro de 2023
