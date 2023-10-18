@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>atividade.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="estrat%C3%A9gias-de-negocia%C3%A7%C3%A3o-e-media%C3%A7%C3%A3o-de-conflitos">Estratégias de Negociação e Mediação de Conflitos</h1>
+<h2 id="orienta%C3%A7%C3%B5es-para-execu%C3%A7%C3%A3o-da-atividade">Orientações para Execução da Atividade</h2>
+<ul>
+<li><strong>OBJETIVO DA ATIVIDADE</strong>: Exercitar técnicas de conciliação, mediação e negociação;</li>
+<li>São <strong>REQUISITOS</strong> para atendimento das orientações da atividade:
+<ul>
+<li>Identificar 3 ou 4 <strong>causas do conflito</strong> entre as equipes;</li>
+<li>Propor 3 ou 4 <strong>soluções para resolver o conflito</strong>;</li>
+<li>Criar um plano de implementação para cada solução, com um cronograma e métricas de sucesso;</li>
+<li>Apresentar suas análises, soluções e planos em até 3 minutos, focando nos benefícios para a &quot;Delícias do Bairro&quot;;</li>
+</ul>
+</li>
+<li>Deve-se:
+<ul>
+<li>Dar ênfase na síntese e comunicação eficaz;</li>
+<li>Respeitar rigorosamente o limite de tempo;
+O sucesso desta dinâmica ajuda a:</li>
+<li>Buscar resolver o conflito na padaria;</li>
+<li>Aprimorar as habilidades de negociação e mediação dos participantes</li>
+</ul>
+</li>
+</ul>
+<h2 id="an%C3%A1lise-do-conflito">Análise do Conflito</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">#</th>
+<th style="text-align:left">Ponto de Vista</th>
+<th style="text-align:left">Causa do conflito<sup>(1)</sup></th>
+<th style="text-align:left">Fatores que<br>Entecedem o<br>Conflito<sup>(2)</sup></th>
+<th style="text-align:left">Estilo de Gestão<br>para o Conflito<sup>(3)</sup></th>
+<th style="text-align:left">Estágio do Conflito<sup>(4)</sup></th>
+<th style="text-align:left">Forma Escolhida<br>para administração do Conflito<sup>(5)</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1</td>
+<td style="text-align:left">Equipe de Produção</td>
+<td style="text-align:left">- <strong>Carência de informação, tempo</strong> e tecnologia<br></td>
+<td style="text-align:left">- Interdependência de atividades</td>
+<td style="text-align:left">- Abordagem de processo</td>
+<td style="text-align:left"><strong>Estágio II</strong> - Cognição e Personalização (Conflito Percebido e Sentido)</td>
+<td style="text-align:left">a)Comprometimento<br>b)Colaboração</td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Equipe de Produção</td>
+<td style="text-align:left">- Divergência de metas<br></td>
+<td style="text-align:left">- Interdependência de atividades</td>
+<td style="text-align:left">- Abordagem de processo</td>
+<td style="text-align:left">-</td>
+<td style="text-align:left">-</td>
+</tr>
+<tr>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Equipe de Produção</td>
+<td style="text-align:left">- Expectativas não atendidas</td>
+<td style="text-align:left">- Interdependência de atividades</td>
+<td style="text-align:left">- Abordagem de processo</td>
+<td style="text-align:left">-</td>
+<td style="text-align:left">-</td>
+</tr>
+</tbody>
+</table>
+<p><sup>(1)</sup> <strong>Nascimento e Sayed (2002)</strong><br>
+<sup>(2)</sup> <strong>Chiavenato (2005)</strong>: <strong>Interdependência de atividades</strong>: ocorre quando um grupo não pode realizar a sua tarefa, a menos que o outro grupo realiza a sua.<br>
+<sup>(3)</sup> Para o caso em tela, opta-se por uma <strong>abordagem de processo</strong> através da realização de <strong>três atividades</strong>:<br>
+  I. <strong>Reunião entre as partes</strong>: Onde serão abertos os motivos do conflito de maneira mais direta entre os envolvidos;<br>
+  II. <strong>Desativação do conflito</strong>: Parece-nos ser indicado que uma das partes opte pela cooperação promovendo o acordo;<br>
+  III. <strong>Colaboração</strong>: após passadas as etapas anteriores, com as duas partes buscando uma resolução vantajosa para todos<br>
+<sup>(4)</sup> <strong>Robbins (2002)</strong>: O autor propõe uma sequência de ações, divididas em <strong>cinco estágios</strong> para a resolução de conflitos: Estágio I: Oposição Potencial ou Incompatibilidade / Estágio II: Cognição e Personalização / Estágio III: Intenções / Estágio IV: Comportamento / Estágio V: Consequências<br>
+<sup>(5)</sup> <strong>Kenneth Thomas e Ralph Kilmann (2008)</strong>: O método apresentado por esses autores propõe <strong>quatro estilos</strong> de administração de conflitos. <strong>Competição</strong>: É assertivo e não cooperativo. Um indivíduo busca seus próprios interesses às custas da outra pessoa. <strong>Afastamento</strong>: <strong>Acomodação</strong>: Não é assertivo e cooperativo. O completo oposto de competir. Ao acomodar, o indivíduo negligencia suas próprias preocupações para satisfazer as preocupações da outra pessoa; há um elemento de auto-sacrifício neste modo. <strong>Colaboração</strong>: É assertivo e cooperativo. O completo oposto de evitar. Colaborar envolve uma tentativa de trabalhar com outras pessoas para encontrar alguma solução que satisfaça plenamente suas preocupações. Significa investigar um problema para identificar as necessidades e desejos subjacentes dos dois indivíduos <strong>Comprometimento</strong>: É moderado tanto em assertividade quanto em cooperação. O objetivo é encontrar alguma solução conveniente e mutuamente aceitável que satisfaça parcialmente ambas as partes</p>
+<h2 id="identifica%C3%A7%C3%A3o-dos-problemas-tipos-de-conflito-e-evid%C3%AAncias">Identificação dos Problemas, Tipos de Conflito e Evidências</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">#</th>
+<th style="text-align:left">Problema(s)</th>
+<th style="text-align:left">Causa</th>
+<th style="text-align:left">Tipo de Conflito</th>
+<th style="text-align:left">Evidência<br>(Contexto e/ou Conflito Já Identificado)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1</td>
+<td style="text-align:left">- A equipe de produção está sobrecarregada;<br>- Frequentemente precisa trabalhar horas extras para atender às encomendas (custos adicionais e sobrecarga de trabalho para equipe);<br>- A equipe de produção apresenta altos níveis de estresse e esgotamento (padeiros e confeiteiros);<br>- Clientes começaram a reclamar da qualidade ligeiramente inferior dos produtos</td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"><strong>Equipe de Produção (Marta)</strong><br>Contexto: &quot;(...) a Equipe de Produção, liderada por Marta, a chefe de produção, enfrenta dificuldades significativas para acompanhar essa crescente demanda.&quot;<br></td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<h2 id="proposta-de-solu%C3%A7%C3%A3o">Proposta de Solução</h2>
+<ul>
+<li>A proposta de solução contém objetivos, entregas, cronograma e benefícios;</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">#</th>
+<th style="text-align:left">Proposta de solução</th>
+<th style="text-align:left">Objetivo(s)</th>
+<th style="text-align:left">Entrega(s)</th>
+<th style="text-align:left">Cronograma</th>
+<th style="text-align:left">Benefícios Esperados</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1</td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<h2 id="m%C3%A9tricas-de-sucesso">Métricas de Sucesso</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">#</th>
+<th style="text-align:left">Objetivo</th>
+<th style="text-align:left">Métrica</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1</td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<h2 id="resumo-das-atividades">Resumo das Atividades</h2>
+<ul>
+<li>A partir das <strong>ORIENTAÇÕES</strong> da atividade fornecidas e da <strong>SITUAÇÃO-PROBLEMA</strong>,:
+<ul>
+<li>Foram Identificados <strong>Problemas</strong>;</li>
+<li>Foram Identificadas as <strong>Causas</strong> para os problemas;</li>
+<li>Foram Identificados <strong>Tipos de conflitos</strong> presentes;</li>
+<li>Foram Demonstrou-se as <strong>evidências</strong> para os problemas, causas e tipos de conflitos identificados;</li>
+<li>Foram apresentados <strong>Propostas de Solução</strong> para cada problema com:
+<ul>
+<li>Objetivo(s);</li>
+<li>Entrega(s) a serem incluídas em plano de ação;</li>
+<li>Métricas de sucesso;</li>
+</ul>
+</li>
+<li>Foram Relacionados os <strong>Benefícios</strong> a serem alcançados a partir das propostas de solução;</li>
+<li>Apresentou-se um Cronograma para o Plano de Ação;</li>
+</ul>
+</li>
+</ul>
+<h2 id="referencial-te%C3%B3rico">Referencial Teórico</h2>
+<p>Para análise e apresentação de proposta de solução considerou-se o seguinte referencial teórico da disciplina:</p>
+<ul>
+<li>Livro da disciplina &quot;Estratégias de Negociação&quot;
+<ul>
+<li>UNIDADE 1 — PRINCÍPIOS DE NEGOCIAÇÃO
+<ul>
+<li>TÓPICO 1 — INTRODUÇÃO: NEGOCIAR É PRECISO
+<ul>
+<li>BASES CONCEITUAIS DA NEGOCIAÇÃO (pág. 6)</li>
+<li>VARIÁVEIS BÁSICAS DA NEGOCIAÇÃO: TEMPO, INFORMAÇÃO E PODER (pág. 16)</li>
+<li>PROCESSO DA NEGOCIAÇÃO (pág. 23)</li>
+<li>MODELOS DE NEGOCIAÇÃO (pág. 25)</li>
+</ul>
+</li>
+<li>TÓPICO 2 — TIPOS DE NEGOCIAÇÃO
+<ul>
+<li>NEGOCIAÇÃO INTEGRATIVA NEGOCIAÇÃO DISTRIBUTIVA</li>
+<li>ESTILOS DE NEGOCIADORES (pág. 39)</li>
+<li>TÓPICO 3 — ZONA POSSÍVEL DE NEGOCIAÇÃO – ZOPA (pág. 47)</li>
+<li>ZONA POSSÍVEL DE NEGOCIAÇÃO - ZOPA (pág. 47)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>UNIDADE 2 — NEGOCIAÇÃO E CONFLITO
+<ul>
+<li>TÓPICO 1 — CONFLITO
+<ul>
+<li>TIPOS DE CONFLITOS (pág. 61)</li>
+<li>ESTILOS DE GESTÃO DE CONFLITOS (pág. 68)</li>
+</ul>
+</li>
+<li>TÓPICO 2 — TÉCNICAS DE NEGOCIAÇÃO: CONCILIAÇÃO E MEDIAÇÃO
+<ul>
+<li>NEGOCIAÇÃO (pág. 79)</li>
+<li>CONCILIAÇÃO (pág. 82)</li>
+<li>MEDIAÇÃO (pág. 87)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h1 id="refer%C3%AAncias">Referências</h1>
+
+</body>
+</html>
