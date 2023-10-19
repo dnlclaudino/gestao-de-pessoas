@@ -19,7 +19,7 @@ section {
 
 ![width:5cm](./logo_uniasselvi-preto.png)
 
-## Estratégias de Negociação e Mediação de Conflitos
+## Estratégias de Negociação
 
 ### Atividade da Disciplina
 
@@ -168,4 +168,6 @@ section {
 ![bg](./obrigado.jpg)
 
 
-<span style="color: white; font-size: 90px">Muito Obrigado !!!</span>
+<span style="color: white; font-size: 90px"><br><br>Muito Obrigado !!!</span>
+
+<span style="color: black; font-size: 40px"><br>Referências: <br><br><b>SILVA, Liliane de S. Vieira. **Estratégias de Negociação**. Indaial:Uniasselvi, 2023</b></span>
