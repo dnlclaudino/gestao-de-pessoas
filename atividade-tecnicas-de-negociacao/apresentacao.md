@@ -68,7 +68,7 @@ Considerando as causas do conflito, opta-se em adotar o **estilo de gestão de c
 - A escolha sobre qual método adotar deve considerar uma série de **FATORES**, como tipo de disputa,vínculo entre as partes, nível de conflito etc.
 - Para o caso em questão, optou-se em utilizar a **CONCILIAÇÃO**:
   - A conciliação é uma técnica utilizada na resolução de disputas em que há a figura de um terceiro, “o conciliador”, responsável por escutar as partes a fim de estimulá-los a chegarem num acordo. O conciliador sugere e propõe soluções para o conflito, cabendo às partes aceitarem ou não essa proposta
-  - A **CONCILIAÇÃO** será implementada na fase "**DESATIVAR CONFLITO**" do plano de ação a ser apresentado.
+  - A **CONCILIAÇÃO** será implementada em todas as FASES do plano de ação a ser apresentado.
 
 ---
 
