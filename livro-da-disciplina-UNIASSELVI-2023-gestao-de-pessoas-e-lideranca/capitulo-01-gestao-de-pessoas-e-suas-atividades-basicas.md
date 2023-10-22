@@ -312,7 +312,7 @@ na organização;
   - A percepção de sentimentos de insatisfação;
   - O surgimento de conflitos;
 - O tema **SATISFAÇÃO DE PESSOAL** está relacionado com o **ATENDIMENTO DAS NECESSIDADES HUMANAS**;
-  - Como ensina o Prof. Rodrigo Rennó[^YOUTUBE-RODRIGO-RENNO-MOTIVACAO], segundo Abraham Maslow, as necessidades humanas estão dispostas numa hierarquia:
+  - Como ensina o Prof. Rodrigo Rennó[^YOUTUBE-RODRIGO-RENNO-MOTIVACAO-2023], segundo Abraham Maslow, as necessidades humanas estão dispostas numa hierarquia:
 
 <center><b>Figura:</b> Hierarquia das Necessidades de Maslow</center>
 <table align="center" width="650" id="figura-teoria-das-necessidades-maslow">
@@ -440,4 +440,4 @@ PP-->PA-->PMA-->PMO
 
 [^CHIAVENATO-2009]: CHIAVENATO, Idalberto. Recursos Humanos: o capital humano das organizações. 9. ed. Rio de Janeiro: Elsevier, 2009.
 
-[^YOUTUBE-RODRIGO-RENNO-MOTIVACAO]: RODRIGO RENNÓ. Teorias de Motivação - Aula Completa - Prof. Rodrigo Rennó. YouTube, 09 de julho de 2019. Disponível em: https://www.youtube.com/watch?v=ajwMge4NNXw Acesso em: 10 de outubro de 2023
+[^YOUTUBE-RODRIGO-RENNO-MOTIVACAO-2023]: RODRIGO RENNÓ. Teorias de Motivação - Aula Completa - Prof. Rodrigo Rennó. YouTube, 09 de julho de 2019. Disponível em: https://www.youtube.com/watch?v=ajwMge4NNXw Acesso em: 10 de outubro de 2023
