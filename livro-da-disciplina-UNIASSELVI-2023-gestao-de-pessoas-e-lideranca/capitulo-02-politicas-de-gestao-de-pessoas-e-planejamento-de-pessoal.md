@@ -204,10 +204,79 @@ root((Objetivos<br>deste Capítulo))
   - É muito **útil na análise** do **SISTEMA DE CARREIRAS** quando a organização adota uma política consistente nesse sentido;
 
 
-## Analisar os planos de carreira e sucessão de funcionários
+## Analisar os PLANOS DE CARREIRA e PLANOS DE SUCESSÃO de funcionários
+
+- Trata-se de **ACOMPANHAR** as seguintes variáveis:
+  - A **evolução dos funcionários**;
+  - Suas **expectativas**;
+  - Seus **planos de futuro**;
+  - A **faixa etária** dos funcionários;
+  - Quem tem **condições de substituir** a liderança;
+- Esses dois processos de trabalho são **CRÍTICOS** e devem ser:
+  - Criteriosamente **AVALIADOS**;
+  - Criteriosamente **PRATICADOS**;
+- Esses dois processos de trabalho são **CRÍTICOS**, PRINCIPALMENTE, para **CARGOS DE ALTA COMPLEXIDADE**;
+- Para o **INÍCIO** da **FORMAÇÃO DE SUBSTITUTO** deve ocorrer em **tempo hábil**;
+  - São **FATORES PRINCIPAIS** que orientam quando começara FORMAÇÃO DE SUBSTITUTO:
+    - A **faíxa etária**;
+    - **Planos para o futuro**;
+    - Processo de **Avaliação de Desempenho**;
+    - Processo de **Desenvolvimento de Pessoal**;
+
+<center><b>Figura:</b> Modelo de Substituição de postos-chaves</center>
+<table align="center" width="650" id="nome-id-unico">
+  <tr>
+    <td align="center">
+      <img src="./figuras/figura-modelo-substituicao-postos-chave-chiavenatto-2000-pag201.png" width="640"><br>
+    </td>
+  </tr>
+</table>
+<center><b>Fonte:</b> Chiavenato (2000, p.201) </center>
+
+- O PLANEJAMENTO DE PESSOAL deve considerar na MUTÁVEL composição da FORÇA DE TRABALHO da organização:
+  - De acordo com o DESENVOLVIMENTO ORGANIZACIONAL:
+    - Acompanhamento das entradas e saídas de pessoal
+    - Movimentação de Pessoal
+  - Durante as **ATIVIDADES DE PLANEJAMENTO, MONITORAMENTO E CONTROLE**:
+    - Quantas pessoas são necessárias para a organização;
+    - Qual é o perfil dessas pessoas;
+  - Qual a NECESSIDADE DE PESSOAL para atendimento:
+    - Das necessidade de produção;
+    - Das estratégias da organização;
+  - Quais **INFORMAÇÕES DE OUTRAS ÁREAS** da organização são relevantes de forma a contribuir para uma **ADEQUADA TOMADA DE DECISÃO** da Gestão de Pessoas formulando **PERGUNTAS-PROBLEMA**;
+    - **Quando** será preciso **começar a contratar**?
+    - Por quanto tempo existirá a **demanda de pedidos** que justificam a contratação?
+    - Por quanto tempo existirá a **demanda de produtos** que justificam a contratação?
+    - Por quanto tempo existirá a **demanda de serviços** que justificam a contratação?
+    - Qual o **perfil dos profissionais** que a organização precisará?
+
+<table id="nome-id-unico">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-reflexao.png?raw=true" heigh="80" width="80"><br>
+      <b>Reflexão<br>Pessoal</b>
+    </td>
+    <td valign="top">
+      Pessoas <b>NÃO PODEM</b> ser <b>contratadas</b> e <b>demitidas</b> aleatoriamente na organização. Isso é ruim para organização, para os colaboradores e para a sociedade. Perceba que a importância da Gestão de Pessoas está além dos limites da organização.
+    </td>
+  </tr>
+</table>
 
 ## Novos desafios
-  
+
+- A **FORÇA DE TRABALHO NECESSÁRIA** para a organização cumprir sua **MISSÃO** e alcancar sua **VISÃO DE FUTURO** depende que o PLANEJAMENTO DE PESSOAL:
+  - **VISUALIZE** a força de trabalho necessária;
+  - **ANTECIPE** a força de trabalho necessária;
+- Um **BOM PLANEJAMENTO**:
+  - Exige **TRABALHO CONJUNTO** da **Gestão de Pessoas** e **todos os gestores** da organização;
+  - Pode ser feito a partir de ANÁLISE:
+    - De METAS;
+    - De HISTÓRICOS e CAPACIDADE INSTALADA;
+    - De movimentação de pessoal;
+    - De planos de carreiras de colaboradores;
+    - De planos de sucessão de colaboradores;
+
+
 ## Fontes de Informações
 
 (...)
