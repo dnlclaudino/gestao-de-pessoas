@@ -91,7 +91,7 @@ root((Objetivos<br>deste Capítulo))
   - Avaliação da qualidade;
   - **Adequação dos recursos humanos** por meio da **avaliação de desempenho**;
 
-### Política de MANUTENÇÃO
+### Política para PROCESSO DE MANUTENÇÃO
 
 - Determina **CRITÉRIOS** de como executar atividades relacionadas à política de manutenção;
   - Remuneração direta dos colaboradores
@@ -108,7 +108,7 @@ root((Objetivos<br>deste Capítulo))
       - Em um clima organizacional adequado;
   - Condições físicas ambientais de higiene e segurança
 
-### Políticas de desenvolvimento
+### Políticas para PROCESSO DE DESENVOLVIMENTO
 
 - Busca-se **CRITÉRIOS** para:
   - Diagnóstico e programação
@@ -120,15 +120,89 @@ root((Objetivos<br>deste Capítulo))
       - Saúde organizacional
       - Excelência organizacional
 
-### Políticas de MONITORAÇÃO
+### Políticas para PROCESSO DE MONITORAÇÃO
 
-- 
+- Auxilia a manter um **BANCO DE DADOS** capaz de **fornecer informações**:
+  - Para análises qualitativas e quantitativas da **força de trabalho** disponível;
+  - Para análise com critérios para auditoria permanente:
+    - Da aplicação e adequação das **POLÍTICAS** relacionados com Gestão de Pessoas;
+    - Da aplicação e adequação dos **PROCEDIMENTOS** relacionados com Gestão de Pessoas;
 
 ## Analisar as metas e históricos
 
+- O planejamento de Pessoal
+  - **PREVÊ** as **OFERTAS** e **DEMANDAS** futuras de colaboradores na organização;
+  - **PERMITE** que especialistas providenciem a **FORÇA DE TRABALHO** apropriada para organização;
+  - Serve como GUIA para as atividades de Gestão de Pessoas;
+- Todas as organizações **DEVEM**:
+  -  **IDENTIFICAR SUAS NECESSIDADES DE COLABORADORES**:
+    - Por meio de planejamento de **curto** e **longo** prazo;
+      - Planejamento de **CURTO PRAZO**:
+        - Vagas que precisam ser preenchidas **DURANTE O PRÓXIMO ANO**;
+      - Planejamento de **LONGO PRAZO**:
+        - Estimam a situação de recursos humanos para **DOIS**, **TRÊS** ou **CINCO** anos no futuro;
+- **ANALISAR METAS** que afetem as **NECESSIDADES DE PESSOAL**:
+  - Volume de vendas;
+  - Produção de serviços;
+- **ANALISAR HISTÓRICOS** para cada uma das **METAS**;
+- **PROJETAR**, correlacionada com os **NÍVEIS HISTÓRICOS**:
+  -  **NÍVEIS FUTUROS** de **METAS**;
+  -  **MÃO DE OBRA** para cada área da organização
+
+<table id="nome-id-unico">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-lembre-se.png?raw=true" heigh="80" width="80"><br>
+      <b>Lembre-se</b>
+    </td>
+    <td valign="top">
+      A atividade de planejamento requer habilidade de análise de diferentes variáveis que facilitem a tomada de decisão.
+    </td>
+  </tr>
+</table>
+
+<table id="nome-id-unico">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-reflexao.png?raw=true" heigh="80" width="80"><br>
+      <b>Lembre-se</b>
+    </td>
+    <td valign="top">
+      São dicas para análise:
+      <ol>
+      <li>Analisar metas e históricos;</li>
+      <li>Dimensionar a necessidades de pessoas e a capacidade instalada;</li>
+      <li>Analisar histórico de movimentação de psssoas</li>
+      <li>Analisar plano de carreira de colaboradores</li>
+      <li>Analisar planos de sucessão de colaboradores</li>
+      </ol>
+    </td>
+  </tr>
+</table>
+
 ## Dimensionar a necessidade de pessoas x a capacidade instalada
 
+- Busca o equilíbro entre o **NÚMERO DE PESSOAS** e a **PROCURA/DEMANDA** do **produto/serviço**;
+  - Relaciona-se com a variável **MÃO DE OBRA DIRETAMENTE ENVOLVIDA NA PRODUÇÃO (MDP)**;
+- Está voltado para o **nível operacional** da organização;
+- Compete, geralmente, ao **PLANEJAMENTO E CONTROLE DA PRODUÇÃO (PCP)**:
+  - **DEFINIR** a **NECESSIDADES DE PESSOAS** para cumprir os **programas de produção**;
+  - **INFORMAR** à Gestão de Pessoas essa necessidade para **RECRUTAMENTO** e **SELEÇÃO**;
+
 ## Analisar históricos de movimentação de pessoal
+
+- É **NECESSÁRIO MANTER**:
+  - Um **HISTÓRICO** de movimentação de pessoal
+  - Um **ACOMPANHAMENTO** de movimentação de pessoal
+- A movimentação de pessoal **ENVOLVE** analisar **FLUXOS**:
+  - De **ENTRADA** de pessoal;
+  - De **SAÍDA** de pessoal;
+  - De **PROMOÇÃO** de pessoal
+  - De **TRANSFERÊNCIA INTERNA / RELOTAÇÃO** de pessoal
+- A análise desses fluxos:
+  - Permite **PREDIÇÃO** a curto prazo das necessidades de pessoal
+  - É muito **útil na análise** do **SISTEMA DE CARREIRAS** quando a organização adota uma política consistente nesse sentido;
+
 
 ## Analisar os planos de carreira e sucessão de funcionários
 
