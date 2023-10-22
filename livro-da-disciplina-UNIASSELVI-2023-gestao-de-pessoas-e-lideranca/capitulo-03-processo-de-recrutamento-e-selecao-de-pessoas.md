@@ -73,6 +73,8 @@ root((Objetivos<br>deste Capítulo))
 
 ## Referências bibliográficas
 
+[^CHIAVENATO-2000]: CHIAVENATO, Idalberto. Administração de Recursos Humanos. São Paulo: Makron Books, 2000
+
 [^CHIAVENATO-2000a]: CHIAVENATO, Idalberto. Administração de Recursos Humanos. São Paulo: Makron Books, 2000.
 
 [^CHIAVENATO-2000b]: CHIAVENATO, Idalberto. Como Transformar RH (de um Centro de despesa) em um Centro de Lucro. São Paulo: Makron Books, 2000.

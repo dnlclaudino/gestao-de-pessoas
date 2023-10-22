@@ -284,3 +284,15 @@ root((Objetivos<br>deste Capítulo))
 ## Referências bibliográficas
 
 [^CHIAVENATO-2000]: CHIAVENATO, Idalberto. Administração de Recursos Humanos. São Paulo: Makron Books, 2000
+
+[^CHIAVENATO-2000a]: CHIAVENATO, Idalberto. Administração de Recursos Humanos. São Paulo: Makron Books, 2000.
+
+[^CHIAVENATO-2000b]: CHIAVENATO, Idalberto. Como Transformar RH (de um Centro de despesa) em um Centro de Lucro. São Paulo: Makron Books, 2000.
+
+[^CHIAVENATO-2004]: CHIAVENATO, Idalberto. Gestão de Pessoas: o novo papel de recursos humanos nas organizações. Rio de Janeiro: Campus, 2004.
+
+[^CHIAVENATO-2007]: CHIAVENATO, Idalberto. Administração de Recursos Humanos: fundamentos básicos. São Paulo: Atlas, 2007.
+
+[^CHIAVENATO-2008]: CHIAVENATO, Idalberto. Empreendedorismo: dando asas ao espírito. Rio de Janeiro: Saraiva, 2008. 
+
+[^CHIAVENATO-2009]: CHIAVENATO, Idalberto. Recursos Humanos: o capital humano das organizações. 9. ed. Rio de Janeiro: Elsevier, 2009
