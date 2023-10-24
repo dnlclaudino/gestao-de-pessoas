@@ -27,18 +27,6 @@ root((Objetivos<br>deste Capítulo))
   - Estilos de liderança;
   - Tipos de liderança;
   
-<table id="nome-id-unico">
-  <tr>
-    <td align="center" width="140px">
-      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-lembre-se.png?raw=true" heigh="80" width="80"><br>
-      <b>Lembre-se</b>
-    </td>
-    <td valign="top">
-      Lorem ipsum...
-    </td>
-  </tr>
-</table>
-
 ## Liderança, Resultados e Confiança
 
 - É por meio do LÍDER e seus LIDERADOS que os **RESULTADOS** acontecem;
@@ -143,9 +131,128 @@ root((CONFIANÇA<br>As 05 Dimensões))
 
 - Principal **RECURSO** para desenvolvimento HUMANO e ORGANIZACIONAL é o **CONHECIMENTO**;
 - É preciso TRANSFORMAR o que cada um tem de melhor em ALGO A SER UTILIZADO pela organização;
-- Para Dessler (2003, p. 15), recursos humanos é fonte de **VANTAGEM COMPETITIVA**;
+- Para Dessler (2003, p. 15), a área de recursos humanos é fonte de **VANTAGEM COMPETITIVA**;
+  - Diferenciais Individuais;
+  - Diferenciais organizacionais;
+- Para alcançar e se manter com VANTAGEM COMPETITIVA, os recursos humanos organizacionais precisam:
+  - Estar em constante APRENDIZADO;
+  - Ser destinatários de INVESTIMENTOS EM EDUCAÇÃO (recursos pessoais ou organizacionais);
+  - Ser destinatários de APRIMORAMENTOS;
+- Um LÍDER precisa GERENCIAR TALENTOS para que a organização alcance o sucesso;
+
+#### Talentos
+
+- Segundo Chiavenato (2008,p. 53), o TALENTO envolve 04 ASPECTOS:
+
+<center><b>Mapa Mental:</b> Os 04 Aspectos que envolvem o TALENTO segundo Chiavenato(2008, p. 53)</center>
+<div id="mapa-mental-talento-04-aspectos" style="text-align:center">
+
+```mermaid
+mindmap
+root(("TALENTOS<br>04 Aspectos<br>Chiavenato<br>(2008, p. 53)"))
+  1.CONHECIMENTO<br>"É o SABER".
+  2.HABILIDADE<br>"É o SABER FAZER".
+  3.ATITUDE<br>"É o COMPORTAMENTO associado ao conhecimento e a habilidade que faz o SABER FAZER acontecer da maneira esperada".
+  4.JULGAMENTO<br>"É o SABER AVALIAR a situação para que se possa tomar a decisão mais adequada a determinada situação".
+```
+
+</div>
+<center><b>Fonte:</b> Próprio autor, a partir do texto do livro</center>
+
+- **TALENTO HUMANO** é um dos elementos do **CAPITAL HUMANO**:
+
+#### Capital Humano
+
+<center><b>Mapa Mental:</b> Os elementos do CAPITAL HUMANO, segundo Chiavenato(2004)</center>
+<div id="mapa-mental-talento-04-aspectos" style="text-align:center">
+
+```mermaid
+mindmap
+root(("CAPITAL HUMANO<BR>Chiavenato<br>(2004)"))
+  1.TALENTO<br>"Conhecimento + Habilidade + Atitude + Capacidade de Julgamento".<br>Precisa ser visto DENTRO de um DETERMINADO CONTEXTO.
+  2.CONTEXTO<br>"É o AMBIENTE ADEQUADO que fornece as FERRAMENTAS NECESSÁRIAS para que os talentos ocorram."
+    A.Desenho Organizacional
+      Flexível
+      Com divisão do trabalho adequada
+        Capaz de gerar um FLUXO de produtos e processos adequados
+    B.Cultura Organizacional
+      Aberta
+      Democrática
+      Que inspire confiança aos seus membros
+      Que fortalece o trabalho em equipe
+    C.Estilo de gestão
+      Baseado na liderança renovadora
+      Baseado no COACHING
+        Aumento da AUTOCONFIANÇA
+        Diminuição das LIMITAÇÕES para as pessoas alcançarem RESULTADOS.
+```
+
+</div>
+<center><b>Fonte:</b> Próprio autor, a partir do texto do livro</center>
+
+
+#### Capital Intelectual
+
+- Para Chiavenato(1999, p. 419):
+  - CAPITAL INTELECTUAL é a SOMA de TUDO O QUE VOCÊ SABE;
+  - CAPITAL INTELECTUAL é o MAIOR PATRIMÔNIO organizacional ( **CONHECIMENTO QUE AS PESSOAS TRAZEM EM SUAS MENTES** )
+    - Conhecimentos sobre PRODUTOS;
+    - Conhecimentos sobre SERVIÇOS;
+    - Conhecimentos sobre CLIENTES;
+    - Conhecimentos sobre PROCESSOS;
+    - Conhecimentos sobre TÉCNICAS;
+  - Ter as **PESSOAS CERTAS** e saber APLICÁ-LAS, MANTÊ-LAS e MONITORÁ-LAS é vital para as organizações;
+
+<center><b>Mapa Mental:</b> Elementos do CAPITAL INTELECTUAL</center>
+<div id="mapa-mental-elementos-do-capital-intelectual" style="text-align:center">
+
+```mermaid
+mindmap
+root(("CAPITAL INTELECTUAL<br>Chiavenato<br>(2004)"))
+  1.CAPITAL INTERNO
+    São CONCEITOS desenvolvidos pelas pessoas e utilizados pelas organizações
+    São MODELOS desenvolvidos pelas pessoas e utilizados pelas organizações
+    São SISTEMAS ADMINISTRATIVOS desenvolvidos pelas pessoas e utilizados pelas organizações
+  2.CAPITAL EXTERNO
+    Depende de COMO
+      A organização RESOLVE soluções para os MEMBROS EXTERNOS À ORGANIZAÇÃO
+      A organização OFERECE soluções para os MEMBROS EXTERNOS À ORGANIZAÇÃO
+    São RELAÇÕES
+      Com CLIENTES
+      Com FORNECEDORES
+  3.CAPITAL HUMANO
+    São COMPETÊNCIAS INDIVIDUAIS que refletem HABILIDADES em AGIR em determinadas SITUAÇÕES
+```
+
+</div>
+<center><b>Fonte:</b> Próprio autor, a partir do texto do livro</center>
+
+#### Como deve ser o foco das organizações ?
+
+- O foco das Organizações DEVE estar no GERENCIAMENTO DO CAPITAL INTELECTUAL ( Recurso mais Valioso da Organização )
+  - INVESTIR constantemente em APRENDIZADO;
+  - AJUDAR o CONSTANTE processo de MUDANÇA ORGANIZACIONAL
+  - DIMINUIR a RESISTÊNCIA À MUDANÇA
+  - AUMENTAR a INOVAÇÃO;
+  - AUMENTAR a CRIATIVIDADE das pessoas;
+
+## O papel da LIDERANÇA como DIFERENCIAL COMPETITIVO
+
+- Em razão de um mercado cada vez mais COMPETITIVO e GLOBALIZADO:
+  - As organizações precisam
+    - Se adaptar rapidamente;
+    - Atender a uma demanda cada vez mais exigente;
+    - Incrementar a COMPETITIVIDADE por uma questão de SOBREVIVÊNCIA;
+    - Reduzir CUSTOS;
+    - Melhorar PRODUTOS;
+    - Investir em TECNOLOGIA
+- Empresas nacionais a cada dia concorrem mais com empresas internacionais ( Veja seção "Como deve ser o foco das organizações ?)
+  - 
+
 
 ## Novos desafios
+
+
   
 ## Fontes de informações
 
