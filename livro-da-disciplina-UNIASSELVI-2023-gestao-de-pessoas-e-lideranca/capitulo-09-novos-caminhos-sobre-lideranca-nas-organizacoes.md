@@ -62,7 +62,7 @@ root((EQUIPE EFICAZ<br>Atinge os Objetivos))
     Efetividade da equipe
     Níveis de conflito
     "Folga" Social
-``````
+```
 
 - **EQUIPE EFICAZ**:
   - Tem confiança nela mesma; e
@@ -246,9 +246,71 @@ root(("CAPITAL INTELECTUAL<br>Chiavenato<br>(2004)"))
     - Reduzir CUSTOS;
     - Melhorar PRODUTOS;
     - Investir em TECNOLOGIA
-- Empresas nacionais a cada dia concorrem mais com empresas internacionais ( Veja seção "Como deve ser o foco das organizações ?)
-  - 
 
+## Conceito de Estratégia
+
+- Vem do grego _strategos_
+  - Significa a arte ou a ciência de ser um general;
+  - Na Grécia antiga, os generais lideravam seus exércitos com estratégia;
+    - Nesse contexto, **ESTRATÉGIA** era definida como o padrão real das ações que ele empreendia ao inimigo;
+
+<table id="quadro-definicao-estrategia-almeida-neto-giraldi-2006">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+      <b>Definição</b>
+    </td>
+    <td valign="top">
+     Segundo <b>Almeida, Neto e Giraldi (2006)</b>: Estratégia é a identificação<sup>1</sup> e o estabelecimento**<sup>2</sup>** de um <b>conjunto de OBJETIVOS e METAS</b>, por meio de <b>RECURSOS</b> e <b>COMPETÊNCIAS</b>, considerando:<br>
+     <ul>
+       <li>As FORÇAS DO AMBIENTE EXTERNO;</li>
+       <li>A VONTADE DE SEUS DIRIGENTES;</li>
+       <li>CRITÉRIOS DE DECISÃO;</li>
+       <li>AÇÃO de CONCORRENTES; e</li>
+       <li>AÇÃO das FORÇAS COMPETITIVAS;</li>
+     <ul>
+    </td>
+  </tr>
+</table>
+
+<table id="quadro-definicao-estrategia-mintzberg-quinn-2001">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+      <b>Definição</b>
+    </td>
+    <td valign="top">
+     Segundo <b>Mintzberg e Quinn (2001)</b>: Estratégia é <b>UM PADRÃO</b> ou <b>PLANO</b>:<br>
+      <ul>
+      <li>Que se une às <b>principais metas</b> da empresa;</li>
+      <li>para alocar os recursos para alcançar <b>um objetivo comum</b>;</li>
+      <li>tendo como <b>BASE</b>, para <b>SE ANTECIPAR AOS ACONTECIMENTOS</b>:</li>
+      <ul>
+        <li>As competências internas;</li>
+        <li>Ameaças;</li>
+        <li>Oportunidades do ambiente externo.</li>
+      </ul>
+      <ul>
+    </td>
+  </tr>
+</table>
+
+- Ainda para Mintzberg e Quinn (2001), uma **ESTRATÉGIA BEM-SUCEDIDA** contém **TRÊS ELEMENTOS ESSENCIAIS**:
+  - **META** a ser atingida;
+  - **POLÍTICAS** que orientam ações;
+  - **PROVIDÊNCIAS** sequenciais para atingir a meta ou objetivo;
+- Qual o OBJETIVO DA ESTRATÉGIA ? Por que a ESTRATÉGIA existe ?
+  - Para MANTER a empresa no mercado;
+  - Para DIFERENCIAR a empresa dos concorrentes;
+  - Para fazer a empresa EMERGIR num mercado cada vez mais competitivo (maior participação no mercado em que atua);
+
+## Estratégia e Competências Organizacionais
+
+- O CAMINHO para **VANTEGEM COMPETIVIVA**<sup>1</sup> e o **DIRECIONAMENTO DA ESTRATÉGIA**<sup>2</sup> da organização são delineados:
+  - Pelas COMPETÊNCIAS ORGANIZACIONAIS;
+  - Pelo APRENDIZADO;
+  - Pelo TALENTO das pessoas que atuam na organização;
+- 
 
 ## Novos desafios
 
