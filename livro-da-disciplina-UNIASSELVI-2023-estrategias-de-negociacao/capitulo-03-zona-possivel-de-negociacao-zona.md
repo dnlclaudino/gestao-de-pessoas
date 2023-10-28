@@ -1,0 +1,1 @@
+# Zona Possível de Negociação (ZOPA)
