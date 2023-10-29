@@ -6,7 +6,7 @@
 
 ## Como referenciar este material ?
 
-LIMA, Daniel. Resumo do livro Gestão de Pessoas e Liderança. Daniel Lima: Portfólio, 2023. Disponível em: (livro-da-disciplina-UNIASSELVI-2023-estrategias-de-negociacao/README.md) Acesso em: 29 de out. de 2023.
+LIMA, Daniel. Resumo do livro Gestão de Pessoas e Liderança. Daniel Lima: Portfólio, 2023. Disponível em: () Acesso em: 29 de out. de 2023.
 
 ## Sumário
 
