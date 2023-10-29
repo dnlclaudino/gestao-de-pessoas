@@ -7,8 +7,29 @@ Repositório para Gestão do Conhecimento de Gestão de Pessoas.
 | # | Tipo Fonte | Nome da Fonte | Progresso | Data | Versão | Links | Anotações |
 |:---:|:---:|:---|:---:|:---:|:---:|:---|:---|
 | 1 | Livro da Disciplina |**UNIASSELVI<br>PROF.ª DANIELE DE LOURDES CURTO DA COSTA MARTINS<br>PROF. EDSON KLAUS KIELWAGEN<br>PROF. RODOLPHO RIBEIRO DA SILVA SOUZA**<br>[Livro - Gestão de Pessoas e Liderança](./livro-da-disciplina-UNIASSELVI-2023-gestao-de-pessoas-e-lideranca/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0bhqEwOYzc75SOQvXxtw?e=4xnfJS) | - |
-| 2 | Livro da Disciplina |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
-| 3 | Livro da Disciplina |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 2 | video-aula |**RODRIGO RENNÓ**<br>[Ambiente organizacional](./video-aula-RENNO-2019-ambiente-organizacional-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 3 | video-aula |**RODRIGO RENNÓ**<br>[Avaliacao e controle](./video-aula-RENNO-2019-avaliacao-e-controle-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 4 | video-aula |**RODRIGO RENNÓ**<br>[Cultura e clima organizacional](./video-aula-RENNO-2019-cultura-clima-organizacional-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 5 | video-aula |**RODRIGO RENNÓ**<br>[Classificação de materiais](./video-aula-RENNO-2019-classificacao-de-materiais-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 6 | video-aula |**RODRIGO RENNÓ**<br>[Controle pelo nível hierárquico](./video-aula-RENNO-2019-controle-nivel-hierarquico-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 7 | video-aula |**RODRIGO RENNÓ**<br>[Comunicação organizacional](./video-aula-RENNO-2019-comunicacao-organizacional-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 8 | video-aula |**RODRIGO RENNÓ**<br>[Estrutura organizacional](./video-aula-RENNO-2019-estrutura-organizacional-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 9 | video-aula |**RODRIGO RENNÓ**<br>[Estratégia organizacional](./video-aula-RENNO-2019-estrategia-organizacional-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 10 | video-aula |**RODRIGO RENNÓ**<br>[Gestão por competências](./video-aula-RENNO-2019-gestao-por-competencias-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 11 | video-aula |**RODRIGO RENNÓ**<br>[Gestão de conflitos](./video-aula-RENNO-2019-gestao-de-conflitos-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 12 | video-aula |**RODRIGO RENNÓ**<br>[Gestão por processos](./video-aula-RENNO-2019-gestao-por-processos-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 13 | video-aula |**RODRIGO RENNÓ**<br>[Liderança](./video-aula-RENNO-2019-lideranca-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 14 | video-aula |**RODRIGO RENNÓ**<br>[Motivação](./video-aula-RENNO-2019-motivacao-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 15 | video-aula |**RODRIGO RENNÓ**<br>[Modelos de gestão pública](./video-aula-RENNO-2019-modelos-de-gestao-publica-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 16 | video-aula |**RODRIGO RENNÓ**<br>[Niveis de planejamento](./video-aula-RENNO-2019-niveis-de-planejamento-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 17 | video-aula |**RODRIGO RENNÓ**<br>[Papéis dos administradores](./video-aula-RENNO-2019-papeis-dos-administradores-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 18 | video-aula |**RODRIGO RENNÓ**<br>[Planejamento estratégico](./video-aula-RENNO-2019-planejamento-estrategico-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 19 | video-aula |**RODRIGO RENNÓ**<br>[Processo decisório](./video-aula-RENNO-2019-processo-decisorio-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 20 | video-aula |**RODRIGO RENNÓ**<br>[Recrutamento e seleção](./video-aula-RENNO-2019-recrutamento-e-selecao-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 21 | video-aula |**RODRIGO RENNÓ**<br>[Teorias administrativas](./video-aula-RENNO-2019-teorias-administrativas-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 22 | video-aula |**RODRIGO RENNÓ**<br>[Treinamento e desenvolvimento](./video-aula-RENNO-2019-treinamento-e-desenvolvimento-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 23 | video-aula |**RODRIGO RENNÓ**<br>[TEMA](.//README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+
 
 ## Relação das Competências Desenvolvidas
 
