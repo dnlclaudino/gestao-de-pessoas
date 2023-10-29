@@ -12,7 +12,7 @@ Repositório para Gestão do Conhecimento de Gestão de Pessoas.
 | 3 | video-aula |**RODRIGO RENNÓ**<br>[Liderança](./video-aula-RENNO-2019-lideranca-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
 | 4 | video-aula |**RODRIGO RENNÓ**<br>[Motivação](./video-aula-RENNO-2019-motivacao-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
 | 5 | video-aula |**RODRIGO RENNÓ**<br>[Modelos de gestão pública](./video-aula-RENNO-2019-modelos-de-gestao-publica-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
-| 6 | video-aula |**RODRIGO RENNÓ**<br>[Niveis de planejamento](./video-aula-RENNO-2019-niveis-de-planejamento-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 6 | video-aula |**RODRIGO RENNÓ**<br>[Níveis de planejamento](./video-aula-RENNO-2019-niveis-de-planejamento-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
 | 7 | video-aula |**RODRIGO RENNÓ**<br>[Recrutamento e seleção](./video-aula-RENNO-2019-recrutamento-e-selecao-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
 | 8 | video-aula |**RODRIGO RENNÓ**<br>[Treinamento e desenvolvimento](./video-aula-RENNO-2019-treinamento-e-desenvolvimento-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
 | 9 | video-aula |**RODRIGO RENNÓ**<br>[TEMA](.//README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
