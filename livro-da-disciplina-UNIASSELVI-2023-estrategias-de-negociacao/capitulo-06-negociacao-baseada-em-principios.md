@@ -1,0 +1,1 @@
+# Negociação baseada em principios

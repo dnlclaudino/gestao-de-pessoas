@@ -7,8 +7,16 @@ Repositório para Gestão do Conhecimento de Gestão de Pessoas.
 | # | Tipo Fonte | Nome da Fonte | Progresso | Data | Versão | Links | Anotações |
 |:---:|:---:|:---|:---:|:---:|:---:|:---|:---|
 | 1 | Livro da Disciplina |**UNIASSELVI<br>PROF.ª DANIELE DE LOURDES CURTO DA COSTA MARTINS<br>PROF. EDSON KLAUS KIELWAGEN<br>PROF. RODOLPHO RIBEIRO DA SILVA SOUZA**<br>[Livro - Gestão de Pessoas e Liderança](./livro-da-disciplina-UNIASSELVI-2023-gestao-de-pessoas-e-lideranca/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0bhqEwOYzc75SOQvXxtw?e=4xnfJS) | - |
-| 2 | Livro da Disciplina |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
-| 3 | Livro da Disciplina |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 2 | Livro da Disciplina |**UNIASSELVI<br>PROF.ª LILIANE DE S. VIEIRA DA SILVA**<br>[Livro - Estratégias de Negociação](./livro-da-disciplina-UNIASSELVI-2023-estrategias-de-negociacao/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0bhqF0ys5oOIP2SDNDbA?e=U49owg) | - |
+| 3 | video-aula |**RODRIGO RENNÓ**<br>[Gestão de conflitos](./video-aula-RENNO-2019-gestao-de-conflitos-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 4 | video-aula |**RODRIGO RENNÓ**<br>[Liderança](./video-aula-RENNO-2019-lideranca-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 5 | video-aula |**RODRIGO RENNÓ**<br>[Motivação](./video-aula-RENNO-2019-motivacao-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 6 | video-aula |**RODRIGO RENNÓ**<br>[Modelos de gestão pública](./video-aula-RENNO-2019-modelos-de-gestao-publica-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 7 | video-aula |**RODRIGO RENNÓ**<br>[Níveis de planejamento](./video-aula-RENNO-2019-niveis-de-planejamento-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 8 | video-aula |**RODRIGO RENNÓ**<br>[Recrutamento e seleção](./video-aula-RENNO-2019-recrutamento-e-selecao-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 9 | video-aula |**RODRIGO RENNÓ**<br>[Treinamento e desenvolvimento](./video-aula-RENNO-2019-treinamento-e-desenvolvimento-aula-completa/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 10 | video-aula |**RODRIGO RENNÓ**<br>[TEMA](.//README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+
 
 ## Relação das Competências Desenvolvidas
 

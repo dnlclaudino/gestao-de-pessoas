@@ -1,0 +1,1 @@
+# Negociação e conflito

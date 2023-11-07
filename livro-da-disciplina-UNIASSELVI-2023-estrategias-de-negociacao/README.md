@@ -1,27 +1,27 @@
 # Livro - Gestão de Pessoas e Liderança
 
-## Como referenciar esta obra ?
+## Como referenciar o livro da disciplina "Técnicas de Negociação" ?
 
- KIELWAGEN, Edson Klaus; MARTINS, Daniele de Lourdes Curto da Costa; SOUZA, Rodolpho Ribeiro da Silva. Gestão de Pessoas e Liderança. Indaial-SC: Arqué, 2023
+ SILVA, Liliane de S. Vieira. [Técnicas de Negociação](https://1drv.ms/b/s!Au-CrfNP6c0bhqF0ys5oOIP2SDNDbA?e=9VYcfD). Indaial-SC: Arqué, 2023
 
 ## Como referenciar este material ?
 
-(...)
+LIMA, Daniel. Resumo do livro Gestão de Pessoas e Liderança. Daniel Lima: Portfólio, 2023. Disponível em: (https://github.com/dnlclaudino/gestao-de-pessoas/blob/master/livro-da-disciplina-UNIASSELVI-2023-estrategias-de-negociacao/README.md) Acesso em: 29 de out. de 2023.
 
 ## Sumário
 
 ### Unidade 1 - Princípios de Negociação
-#### [Capítulo 01 - Introdução: Negociar é Preciso]()
-#### [Capítulo 02 - Tipos de Negociação]()
-#### [Capítulo 03 - Zona de Possível de Negociação (ZOPA)]()
+#### [Capítulo 01 - Introdução: Negociar é Preciso](./capitulo-01-introducao-negociar-e-preciso.md)
+#### [Capítulo 02 - Tipos de Negociação](./capitulo-02-tipos-de-negociacao.md)
+#### [Capítulo 03 - Zona de Possível de Negociação (ZOPA)](./capitulo-03-zona-possivel-de-negociacao-zona.md)
 ### Unidade 2 - Negociação e Conflito
-#### [Capítulo 01 - Conflito]()
-#### [Capítulo 02 - Técnicas de Negociação: conciliação e Mediação]()
-#### [Capítulo 03 - Negociação Baseada em Princípios: Ética nas Negociações]()
+#### [Capítulo 04 - Conflito](./capitulo-04-negociacao-e-conflito.md)
+#### [Capítulo 05 - Técnicas de Negociação: conciliação e Mediação](./capitulo-05-tecnicas-de-negociacao-conflito-e-mediacao.md)
+#### [Capítulo 06 - Negociação Baseada em Princípios: Ética nas Negociações](./capitulo-06-negociacao-baseada-em-principios.md)
 ### Unidade 3 - Negociações em Contextos Multiculturais
-#### [Capítulo 01 - Negociação: Desafios e Oportunidades]()
-#### [Capítulo 02 - Negociações Multiculturais]()
-#### [Capítulo 03 - Desafios da Negociação]()
+#### [Capítulo 07 - Negociação: Desafios e Oportunidades](./capitulo-07-negociacao-desafios-e-oportunidades.md)
+#### [Capítulo 08 - Negociações Multiculturais](./capitulo-08-negociacoes-multiculturais.md)
+#### [Capítulo 09 - Desafios da Negociação](./capitulo-09-desafios-da-negociacao.md)
 
 ## Licença
 
