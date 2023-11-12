@@ -1,4 +1,4 @@
-# Livro - Gestão de Pessoas e Liderança
+# Livro - Técnicas de Negociação
 
 ## Como referenciar o livro da disciplina "Técnicas de Negociação" ?
 
@@ -6,11 +6,35 @@
 
 ## Como referenciar este material ?
 
-LIMA, Daniel. Resumo do livro Gestão de Pessoas e Liderança. Daniel Lima: Portfólio, 2023. Disponível em: (https://github.com/dnlclaudino/gestao-de-pessoas/blob/master/livro-da-disciplina-UNIASSELVI-2023-estrategias-de-negociacao/README.md) Acesso em: 29 de out. de 2023.
+LIMA, Daniel. Resumo do livro Técnicas de Negociação. Daniel Lima: Portfólio, 2023. Disponível em: (https://github.com/dnlclaudino/gestao-de-pessoas/tree/master/livro-da-disciplina-UNIASSELVI-2023-estrategias-de-negociacao#readme) Acesso em: 29 de out. de 2023.
 
 ## Sumário
 
 ### Unidade 1 - Princípios de Negociação
+
+```mermaid
+mindmap
+root((Objetivos<br>deste Capítulo))
+  1.Conhecer
+    Princípios da negociação
+    Definições da negociação
+    Conceitos da negociação
+  2.Compreender
+    As **bases conceituais** da negociação
+  3.Identificar
+    Processo de negociação
+  4.Analisar
+    Variáveis básicas da negociação
+  5.Traduzir
+    Estilo de Negociadores
+  6.Conhecer
+    Principais técnicas de negociação
+  7.Desenvolver
+    Capacidades técnicas de negociação
+  8.Aplicar
+    Técnicas de negociação
+```
+
 #### [Capítulo 01 - Introdução: Negociar é Preciso](./capitulo-01-introducao-negociar-e-preciso.md)
 #### [Capítulo 02 - Tipos de Negociação](./capitulo-02-tipos-de-negociacao.md)
 #### [Capítulo 03 - Zona de Possível de Negociação (ZOPA)](./capitulo-03-zona-possivel-de-negociacao-zona.md)
