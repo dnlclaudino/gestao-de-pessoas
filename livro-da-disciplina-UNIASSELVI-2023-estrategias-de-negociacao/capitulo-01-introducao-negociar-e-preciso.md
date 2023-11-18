@@ -277,22 +277,69 @@ root((Tipo de Relação<br>ENTRE PESSOAS))
    - Usam argumentos para convencer a outra parte;
    - Evocam benefícios;
    - Tentam convencer o que a outra parte pode obter. 
-4. Quando o processo de negociação ocorre, as partes envolvidas esperam, em troca do que dão, receber aquilo que desejam e que acham ser justo com **DUAS POSSIBILIDADES DE RESULTADO**:
-   - ou **HÁ NEGOCIAÇÃO**;
-   - ou não **HÁ NEGOCIAÇÃO**:
-     - Quando não há, as partes podem perder.
+4. Quando o processo de negociação ocorre, as partes envolvidas esperam, em troca do que dão:
+   - Receber aquilo que desejam e que acham ser justo com **DUAS POSSIBILIDADES DE RESULTADO**:
+     - ou **HÁ NEGOCIAÇÃO**;
+     - ou **NÃO HÁ NEGOCIAÇÃO**:
+       - Quando não há, as partes podem perder.
 
-Em 12/11/2023, 10:43, eu parei na página 12 do livro.
+<hr>
 
+- Um **BOM NEGOCIADOR** precisa:
+  - Conhecer os **estilos de negociação**;
+  - Conhecer as **estratégias** adotadas pela outra parte
+  - Conhecer a si mesmo (**autoconhecimento**);
+  - Ter controle emocional (**inteligência emocional**)
 
+<hr>
 
+<table id="LEMBRE-SE-NEGOCIACAO">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-lembre-se?raw=true" heigh="100" width="100"><br>
+      <b>LEMBRE-SE</b>
+    </td>
+    <td valign="top">
+      É preciso lembrar que:
+      <ul>
+       <li>Nenhuma negociação é estática</li>
+       <li>Imprevistos acontecem, situações inesperadas podem ocorrer durante a negociação</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+<table id="LEMBRE-SE-TIPOS-DE-ENTRAVES-BLOQUEIOS">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-lembre-se?raw=true" heigh="100" width="100"><br>
+      <b>LEMBRE-SE</b>
+    </td>
+    <td valign="top">
+      Em razão da natureza dinâmica das negociações podem ocorrer diferentes tipos de problemas chamados ENTRAVES OU BLOQUEIOS que precisarão ser superados ou administrados. São tipos de BLOQUEIO ou ENTRAVES:
+      <ul>
+       <li>Falta de controle emocional</li>
+       <li></li>
+       <li></li>
+       <li></li>
+       <li></li>
+       <li></li>
+       <li></li>
+       <li></li>
+       <li></li>
+       <li></li>
+       <li></li>
+      </ul>
+      Os tipos de bloqueios/entraves acima servem como guia para identificação de inúmeros outros.
+    </td>
+  </tr>
+</table>
+- Nenhuma negociação é estática
+  - 
 
+Em 18/11/2023, 07:47, eu parei na página 13 do livro.
 
 ## (...)
-
-
-
 
 (...)
 
